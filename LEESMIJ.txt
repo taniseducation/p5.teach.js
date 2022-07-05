@@ -1,0 +1,7 @@
+python3 -m http.server 3000
+
+Voorbeeldfile in:
+https://3000-taniseducatio-p5teachjs-a7bu6k3kucq.ws-eu51.gitpod.io/dist/
+
+Lib-uitleg in:
+https://3000-taniseducatio-p5teachjs-a7bu6k3kucq.ws-eu51.gitpod.io/docs/
